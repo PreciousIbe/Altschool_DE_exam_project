@@ -46,8 +46,8 @@ the database.
 Github
 - Explains how to clone iT
 
-## How to Clone the Repository
+## How to Clone the Repository - 
 Copy the repository's url and open your terminal, cd into where you would like to initialize git and then run `git init`. Once git is initialized then you can run this command `git clone https://github.com/PreciousIbe/Altschool_DE_exam_project.git`.
 
-## To run the Code- 
+## To run the Code - 
 Once the file has been cloned successfully you can then run python3 name_of_file.py either on the terminal or on your IDE eg- VsCode to test the code.
